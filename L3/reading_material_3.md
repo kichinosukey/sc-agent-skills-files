@@ -4,7 +4,7 @@
 
 * [List of Anthropic skills](https://github.com/anthropics/skills/tree/main/skills)  
 * [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) 
-* [Skill creator](https://github.com/anthropics/skills/tree/main/skill-creator)
+* [Skill creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
 
 ## Part 1: Updating the Marketing Skill
 
